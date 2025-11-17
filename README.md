@@ -45,7 +45,4 @@ These notebooks were built to be:
 Feel free to use them for teaching, learning, or as a starting point for your own projects!
 
 ## Made By
-Your Name – Aerospace/EE/ME Student  
-[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) | [your.email@university.edu](mailto:your.email@university.edu)
-
-⭐ Star this repo if you found it useful!
+Vihaan Vaidya
